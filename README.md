@@ -49,3 +49,8 @@ git clone [https://github.com/fahimrahat58/Nature-s-Platter.git](https://github.
 cd Nature-s-Platter
 
 # Open index.html in your browser or run via VS Code Live Server
+
+👨‍💻 Developer
+Developed by Fahim Rahat
+
+GitHub: @fahimrahat58
